@@ -1,7 +1,7 @@
 ### Hi welcome, i'm Seojio😄
 
-### want to be Backend Engineer
-
+### Want to be Backend Engineer
+<br>
  🛠️Tech Stack 🛠️<br>
  `💡 Techs that i've used at least once!`
 
