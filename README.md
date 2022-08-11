@@ -19,12 +19,10 @@
 <br><br>
 
 😎 About Me 😎<br>
-[<img src="https://img.shields.io/badge/DevBlog-20C997?style=flat-square&logo=Velog&logoColor=white"/>](https://velog.io/@lio8625)
+[![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@lio8625)](https://velog.io/@lio8625)
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>](https://www.instagram.com/seojo8625/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seojo8625@gmail.com)](seojo8625@gmail.com)
 <br><br>
 [![Seojio's GitHub stats](https://github-readme-stats.vercel.app/api?username=seo-jio&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-<img alt="Gmail" src 
-="https://img.shields.io/badge/seojo8625@gmail.com-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
 </div>
 
