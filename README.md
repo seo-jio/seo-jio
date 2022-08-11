@@ -17,9 +17,8 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
 <br><br><br>
-<img src = https://user-images.githubusercontent.com/68144687/173016153-b5808ce0-92de-47b7-95b9-bc596566238c.png width="2%" height="2%"> Email <img src = https://user-images.githubusercontent.com/68144687/173016153-b5808ce0-92de-47b7-95b9-bc596566238c.png width="2%" height="2%"><br>lio8625@naver.com
-<br><br><br>
-☁ SNS list ☁<br>
+
+😎 About Me 😎<br>
 [<img src="https://img.shields.io/badge/DevBlog-20C997?style=flat-square&logo=Velog&logoColor=white"/>](https://velog.io/@lio8625)
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>](https://www.instagram.com/seojo8625/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seojo8625@gmail.com)](seojo8625@gmail.com)
