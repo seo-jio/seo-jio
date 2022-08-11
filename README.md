@@ -12,7 +12,7 @@
 <img src = https://user-images.githubusercontent.com/68144687/173016153-b5808ce0-92de-47b7-95b9-bc596566238c.png width="2%" height="2%"> Email <img src = https://user-images.githubusercontent.com/68144687/173016153-b5808ce0-92de-47b7-95b9-bc596566238c.png width="2%" height="2%"><br>lio8625@naver.com
 <br><br><br>
 ☁ SNS list ☁<br>
-[<img src="https://img.shields.io/badge/DevBlog-20C997?style=flat-square&logo=Velog&logoColor=white"/>][(https://velog.io/@qtwe153)](https://velog.io/@lio8625)
+[<img src="https://img.shields.io/badge/DevBlog-20C997?style=flat-square&logo=Velog&logoColor=white"/>](https://velog.io/@lio8625)
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>](https://www.instagram.com/seojo8625/)
 <br><br><br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seo-jio&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
