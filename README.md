@@ -1,5 +1,5 @@
 ### Hi welcome, i'm Seojio😄
-
+### I'm majoring in Computer Science in University
 ### Want to be Backend Engineer
 <br>
  🛠️Tech Stack 🛠️<br>
