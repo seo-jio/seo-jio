@@ -1,6 +1,4 @@
-## Hi welcome, i'm Seojio😄
-### Now i'm majoring in Computer Science in University
-### I want to be Backend Engineer
+### I am currently studying to become a backend developer.
 <br>
  🛠️Tech Stack 🛠️<br>
  `💡 Techs that i've used at least once!`
